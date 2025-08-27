@@ -23,7 +23,9 @@ Managing shared expenses among friends and groups leads to manual calculations, 
 - Horizontal scaling capability and database optimization
 
 ## Class Diagram
-![class diagrma](image-14.png)
+![class diagrma]
+(diagram.jpeg)
+
 
 ## Cardinality Relationships
 
